@@ -30,105 +30,105 @@ const app = {
       name: "Anh Sẽ Đợi",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - Anh Sẽ Đợi  Remix Violon chuẩn TikTok   AiR REMIX  Điềm Lê.mp3",
-      image: "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+      image: "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Love Story",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - Love Story Remix FkHs Remix  Nhạc HOT TikTok Gây Nghiện 2022.mp3 ",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Lời Yêu Ngây Dại",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - Nightcore  Lời Yêu Ngây Dại Remix.mp3 ",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Nightcore Ngày Dài Mệt Mỏi.",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - Nightcore Cho Ngày Dài Mỏi Mệt  Bản Nhạc Nightcore Thư Giãn   Pé Con  Music .mp3 ",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Hey Hey Hey ",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - Hey Hey Hey X Mood  TVT Remix  Nhạc Nền Hot TikTok 2022.mp3 ",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "2AM ",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - 2AM  Justatee x BigDaddy sped up 7.mp3 ",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
 name: "Kẻ Theo Đuổi Ánh Sáng ",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - Kẻ Theo Đuổi Ánh Sáng  Huy Vạc ft Tiến NguyễnCukak Remix Audio Lyrics Video.mp3",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
 name: "Way Back Home (Live)",
       singer: "Lê Hồng Anh Tùng",
       path: "./FDownloader.net-2035105680169744-(320kbps).mp3",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
 name: "Death Bed ( Live )",
       singer: "Lê Hồng Anh Tùng",
       path: "./FDownloader.net-1101612693794854-(320kbps).mp3",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "EDM Nightcore",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - Top 20 Bản Nhạc EDM Nightcore Hay Hơn Cả Bản Gốc  Nhạc Điện Tử Gây Nghiện Hay Nhất 2022.mp3",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Fly Away ",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - TheFatRat  Fly Away Lyrics feat Anjulie (1).mp3",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     }, 
     {
       name: "Chạy Khỏi Thế Giới Này",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - Chạy Khỏi Thế Giới Này  Da LAB ft Phương LyCukak Remix Audio Lyric Video.mp3",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Cứ Nói Yêu Lần Này",
       singer: "Lê Hồng Anh Tùng",
       path:
         "./y2mate.com - Cứ Nói Yêu Lần Này  Lil ZpoetCukak Remix Audio Lyrics Video.mp3",
-      image: "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+      image: "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Let Her Go",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - Let Her Go SAD  Sad songs for lonely people  Depressing songs playlist for crying at 3 am_64kbps.mp3",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Lời Anh Chưa Thể Nói",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - New Version Lời Anh Chưa Thể Nói ST Nguyên Jenda  ChubbyOrinn x Jena Remix Remix Hot TikTok.mp3",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Yêu Sắc Yếu",
@@ -136,105 +136,105 @@ name: "Death Bed ( Live )",
       path:
         "./y2mate.com - Yêu Sắc Yếu  OsadJena Remix Audio Lyrics  Remix Hot TikTok 2022.mp3",
       image:
-      "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+      "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Never Be Alone",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - TheFatRat   Never Be Alone  Lyrics  Vietsub .mp3",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Baka",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - あれくん Alekun  Baka ばーか  Lyrics.mp3",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Alone LoFi",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - Alan Walker  Alone Lofi Hiphop.mp3",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     }, 
     {
       name: "Lemon",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - MADAMVヴァイオレットエヴァーガーデンLemon.mp3",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Cute LoFi",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - cute lofi mix  songs to help you be happy  寛げる  J A P A N E S E   L O F I   F U T U R E   B A S S.mp3",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Sparkle",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - Sparkle  Your Name Kimi no Na wa AMV.mp3",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Violin Lindsey",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - Senbonzakura Violin  Lindsey Stirling  TikTok 001  Nhạc Nền Violin Cực Hay  Hot TikTok 2022.mp3 ",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Renai Circulation",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - Renai Circulation恋愛サーキュレーション歌ってみたなみりん.mp3",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Save Me",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - DEAMN  Save Me Audio.mp3 ",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Lemon",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - Rival x Cadmium  Seasons feat Harley Bird Futuristik  Whogaux Remix NCS Release.mp3",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Where We Started",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - Nightcore  Where We Started Lost Sky ft Jex  Lyrics.mp3 ",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Close To The Sun",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - TheFatRat  Anjulie  Close To The Sun.mp3 ",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
       name: "Savannah",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - Diviners  Savannah feat Philly K NCS Release.mp3 ",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     },
     {
   name: "GU",
       singer: "Lê Hồng Anh Tùng",
       path: "./y2mate.com - gu  freaky x seachains x 1 9 6 7 speed up.mp3",
       image:
-        "https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif"
+        "https://tse1.mm.bing.net/th?id=OIP.B23-1HSczZP1Uuc41GOP4gHaEK&pid=Api&P=0&w=711&h=400&fbclid=IwAR1SKOnTRINHAHZSEk-dgrKvJ-ZBzIf_-cqhN-V12tEAIRt42g-Z6eroBQY"
     } 
   ],
   setConfig: function (key, value) {

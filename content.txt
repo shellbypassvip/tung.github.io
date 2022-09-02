@@ -1,0 +1,33 @@
+<span id="u">user@lehonganhtung.info</span>:<span id="b">~</span><span id="c">$</span> ssh root@LêTùng -p 22
+Password: ********
+Last login: Wed Nov 02 15:00:43 2021 from localhost
+<br/>
+<span id="a">root@lehonganhtung</span>:<span id="b">~</span><span id="c">#</span> ls
+about_me.txt
+<span id="a">root@lehonganhtung</span>:<span id="b">~</span><span id="c">#</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about_me.txt<br/>
+My name is Lê Hồng Anh Tùng, I'm currently studying in junior high school.
+ I am a coder and do social networking services living in Hanoi, I like to discover and learn interesting and good things on social networks, then I fail, my hobby is to go sightseeing, meet new people.  friend, colleague.  Here I will tell a little bit about my biography: Le Hong Anh Tung was born in 2008. Currently studying and working in Hanoi.  Currently I do Social Networking Services and Website Programming, Antiddos - Ddos.  At the present time, I am quite successful in the field of Social Networking and Programming.  In order for me to be where I am now, I had to stand firmly on this difficult and challenging road, I had to explore and supplement my knowledge a lot during the years of searching and pursuing.  The covid 19 pandemic has changed me a lot and realizing my strengths and weaknesses, I will try to do the best, thank you to everyone who has always supported and helped me in the past time.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+
+My dream is to become an app developer.
+
+You can find more about who I am in my <a href="/index2.html">Detail Infomation About Me</a>.
+
+I also have a <a href="/index2.html">Detail Infomation About Me</a>. <br>
+
+You can checkout my infomations on:
+<a href="https://www.facebook.com/lehonganhtung.info/">Facebook</a>
+<a href="https://www.tiktok.com/@lehonganhtung.info?_t=8VBWd0NWtzm&_r=1">TikTok</a>
+<a href="https://m.me/@lehonganhtung.info">Messenger</a>
+<a href="https://zalo.me/0961869322">Zalo</a>
+<a href="https://viesonetwork.net">Forum Website</a>
+<a>Mail:lehonganhtung.kazuto@gmail.com</a>
+I publish my writeups on my <a href="https://github.com/leTungXDevelopervn">GitHub</a>, you can also checkout the projects I'm working on over there.
+
+
+<span id="a">root@lehonganhtung</span>:<span id="b">~</span><span id="c">#</span> exit
+<p>Connection to lehonganhtung closed.</p>
+<span id="u">user@lehonganhtung.info</span>:<span id="b">~</span><span id="c">$</span> shutdown
+Goodbye!
+
+              &#169; <a href='#'></a> Code by Lê Hồng Anh Tùng
+         

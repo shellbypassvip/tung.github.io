@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Pokémon Battle</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<header>
+  <img class="logo" title="Reset Game" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/2000px-International_Pok%C3%A9mon_logo.svg.png" alt="Pokemon">
+</header>
+
+<main>
+  <div class="instructions">
+    <p>Choose your hero</p>
+  </div>
+  
+  <section class="characters"></section>
+  
+  <section class="stadium">
+    <section class="enemy"></section>
+    <section class="hero"></section>
+  </section>
+  
+  
+  <ul class="attack-list"></ul>
+</main>
+
+
+<div class="audio">
+  <audio class="sfx"></audio>
+  <audio class="music" loop></audio>
+</div>
+
+<div class="modal-out">
+  <div class="modal-in">
+    <header></header>
+    <section></section>
+    <footer></footer>
+  </div>
+</div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>

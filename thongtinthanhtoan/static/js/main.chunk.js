@@ -117,7 +117,7 @@
                                                 logo: "mm",
                                                 name: "Ví MoMo",
                                                 ctk: "Lê Hồng Anh Tùng ",
-                                                stk: "0961869322"
+                                                stk: "0977759963"
                                             }, {
                                                 logo: "tsr",
                                                 name: "TheSieuRe",
@@ -206,7 +206,7 @@
                                                 children: [Object(d.jsx)("span", {
                                                     className: "overhead",
                                                     children: "Email"
-                                                }), "lehonganhtung. kazuto@gmail.com"]
+                                                }), "kazuto@lehonganhtung.tk "]
                                             }), Object(d.jsxs)("li", {
                                                 children: [Object(d.jsx)("span", {
                                                     className: "overhead",
